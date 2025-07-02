@@ -23,7 +23,6 @@ A fast and lightweight URL shortening application built with Python Flask. It al
 
 ---
 
-
 ## 📂 Folder Structure
 ```bash
 url-shortener/
